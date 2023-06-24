@@ -29,13 +29,13 @@ The input should reflect the formatting even when fewer than 10 digits are enter
 
 For example, if a user inputs "123456", the input field should automatically update to show "(123) 456". If the user continues typing "7890", the input field should update to "(123) 456-7890".
 
-**Instructions:**
+### Instructions:
 For each question, submit separate solutions as online playground links. Ensure tests are runnable; if not, include execution instructions.
 
-**Question 1:**
+### Question 1:
 The implementation must be done in two versions:
 1. Vanilla JavaScript, including fully executable unit tests.
 2. ReactJS, including fully executable unit tests.
 
-**Question 2:**
+### Question 2:
 Consider the scenario where a user removes some digits from the middle of the formatted number. Address the issue of the caret jumping to the end, and write tests to verify your solution for both Vanilla JS & ReactJS versions.
